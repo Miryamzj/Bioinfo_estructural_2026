@@ -1,9 +1,3 @@
----
-editor_options: 
-  markdown: 
-    wrap: 72
----
-
 # Ejericio 2: Análisis Estructural de Dominios – CATH y FoldMason
 
 ## 1. Introducción
