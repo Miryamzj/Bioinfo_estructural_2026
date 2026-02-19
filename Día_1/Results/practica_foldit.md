@@ -15,7 +15,8 @@
 **Figura 3.** Colapso hidrofóbico observado durante la práctica. Se muestra el ajuste de la cadena polipeptídica para "esconder" las cadenas laterales hidrofóbicas, permitiendo que los residuos polares u hidrofílicos queden expuestos en la superficie, estableciendo así la arquitectura correcta de la estructura terciaria.
 
 
-
+![Captura de mi avance en Foldit](./Fig4.png)
+Figura 4. Representación de interacciones de enlace de hidrógeno en una conformación de lámina plegada. Se observa la orientación paralela/antiparalela de los segmentos proteicos, donde los puentes de hidrógeno actúan como los "peldaños" de estabilidad que reducen la energía libre del sistema al optimizar las distancias de enlace entre átomos con cargas parciales opuestas.
 
 
 
