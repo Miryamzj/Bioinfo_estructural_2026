@@ -55,7 +55,7 @@ CACGTG
 
 Las secuencias utilizadas están en:
 
-data/[Max_Ebox_25bp.fasta](data/Max_Ebox_25bp.fasta)
+data/[Max_Ebox_25bp.fasta](data/MAX_Ebox_25bp.fasta)
 
 El ADN fue definido explícitamente porque AlphaFold3 predice la estructura del ensamblaje proporcionado como entrada.
 
