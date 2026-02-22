@@ -6,7 +6,7 @@
 
 ## 1. Calidad global del modelo (AlphaFold3)
 
-![AlphaFold results](../resuls/AlphaFold_results.png)
+![AlphaFold results](../results/AlphaFold_results.png)
 
 El modelo presenta valores:
 
@@ -26,7 +26,7 @@ El mapa PAE muestra bloques bien definidos para cada monómero y la región del 
 
 ## 2. Geometría estereoquímica (MolProbity)
 
-![MolProbity metrics](results/swissmodel_molprobity_metrics.png)
+![MolProbity metrics](../results/swissmodel_molprobity_metrics.png)
 
 Valores principales:
 
@@ -44,7 +44,7 @@ Esto indica que el modelo es **físicamente plausible** y no contiene errores gr
 
 ## 3. Diagrama de Ramachandran
 
-[Ramachandran plot](results/swissmodel_ramachandran.png)
+[Ramachandran plot](../results/swissmodel_ramachandran.png)
 
 Resultados:
 
@@ -62,7 +62,7 @@ Por lo tanto, los outliers no representan errores del modelo sino flexibilidad b
 
 ## 4. Calidad global y local (QMEANDisCo)
 
-![QMEAN](results/swissmodel_qmean_global_local.png)
+![QMEAN](../results/swissmodel_qmean_global_local.png)
 
 Valores:
 
@@ -86,7 +86,7 @@ La zona funcional presenta alta confianza estructural.
 
 ## 5. Cobertura estructural
 
-![Sequence coverage](results/swissmodel_sequence_coverage.png)
+![Sequence coverage](../results/swissmodel_sequence_coverage.png)
 
 Se observa:
 
@@ -101,7 +101,7 @@ solo se estructura completamente al unirse al ADN.
 
 ## 6. Arquitectura del complejo
 
-![Structure](results/swissmode_structure.png)
+![Structure](../results/swissmode_structure.png)
 
 El modelo reproduce correctamente:
 
